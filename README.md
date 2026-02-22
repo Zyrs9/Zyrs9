@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Mert (aka Zayres) 👋
 
-<!--
-**Zyrs9/Zyrs9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a computer science engineer with a deep interest in **systems architecture, cyber security, networking, and low-level programming**. I enjoy building tools that sit close to the metal, from Virtual Machines to networking protocols.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
+- **Languages:** C, Java, Python, Go, 
+- **Focus Areas:** Cyber Security, Systems Programming, Networking (Socket Programming), Virtualization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📂 Featured Projects
+* **[LC3_VM-in_C](https://github.com/Zyrs9/LC3_VM-in_C)** – A robust, cross-platform implementation of the LC-3 instruction set architecture.
+* **[Networks3334](https://github.com/Zyrs9/Networks3334)** – A Client-Server package featuring a basic Load Balancer implemented in Java.
+* **[Fil3Mania](https://github.com/Zyrs9/Fil3Mania)** – A specialized file operations application built with Python.
+* **[basic_networking_c](https://github.com/Zyrs9/basic_networking_c)** – A Ping-like CLI tool for networking Proof of Concepts.
+
+---
+
+### 📊 GitHub Activity
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Zyrs9&show_icons=true&theme=tokyonight" alt="Zyrs9's GitHub stats" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zyrs9&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
+
+---
+
+### 📫 Connect with me
+- **GitHub:** [Zyrs9](https://github.com/Zyrs9)
