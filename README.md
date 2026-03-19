@@ -27,3 +27,4 @@ I am a computer science engineer with a deep interest in **systems architecture,
 
 ### 📫 Connect with me
 - **GitHub:** [Zyrs9](https://github.com/Zyrs9)
+- **LinkedIn** [Mert](https://www.linkedin.com/in/ozbayimert/)
