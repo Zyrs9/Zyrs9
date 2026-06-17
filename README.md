@@ -30,7 +30,7 @@ I am a **Computer Science Engineer, Instructor, and Cyber Security Specialist** 
 ---
 
 ### 🌍 Available in
-- **Languages:** English/Turkish (Native), French (B1)
+- **Languages:** English, Turkish, French
 
 ### 📫 Connect with me
 - **GitHub:** [Zyrs9](https://github.com/Zyrs9)
